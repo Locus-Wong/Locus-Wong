@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> 👋, I'm Tsz Wa Wong(Locus)</h1>
+<h1 align="center">Hi 👋, I'm Tsz Wa Wong(Locus)</h1>
 <h3 align="center">A passionate Computer Programming student from Seneca Polytechnic</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
