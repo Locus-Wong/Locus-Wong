@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tsz Wa Wong(Locus)</h1>
 <h3 align="center">A passionate Computer Programming student from Seneca Polytechnic</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>📫 How to reach me twwong9@myseneca.ca<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.
 
@@ -26,6 +28,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
