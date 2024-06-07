@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tsz Wa Wong(Locus)</h1>
+<h1 align="center">Hi 👋, I'm Locus Wong</h1>
 <h3 align="center">A passionate Computer Programming student from Seneca Polytechnic</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me twwong9@myseneca.ca
+🔭 I’m currently a third-semester student in the Ontario Advanced Diploma of Computer Programming and Analysis program at Seneca Polytechnic. I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me twwong9@myseneca.ca
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Kn69grT2h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/locus_hk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsz-wa-wong-8201b3210/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Locus_HK) 
