@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
 
-<div align="center">Junior Software Developer</div>  [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">Junior Software Developer</div>   
+
+[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ### Junior Software Developer
-[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <div style="text-align: center;">
     Junior Software Developer
