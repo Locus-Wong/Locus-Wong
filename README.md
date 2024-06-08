@@ -27,10 +27,10 @@
  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><!-- Python -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100"><!-- Ubuntu -->
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Locus-Wong&show_icons=true&locale=en&layout=compact" alt="Locus-Wong" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&show_icons=true&locale=en" alt="Locus-Wong" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&" alt="Locus-Wong" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
