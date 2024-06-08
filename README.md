@@ -35,7 +35,7 @@
 
 
 ### ✍️ Random Dev Quote ### 😂 Random Dev Meme
-![]([https://memer-new.vercel.app/](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox))![](https://memer-new.vercel.app/) 
+![]([https://memer-new.vercel.app/](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)) ![](https://memer-new.vercel.app/) 
 
 
 ---
