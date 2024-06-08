@@ -12,6 +12,10 @@
 [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in) </span>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="text-align: center; flex-grow: 1;">Junior Software Developer</div>
+    <div style="margin-left: auto;"><a href="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1"><img src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1"></a></div>
+</div>
 
     
 ## 💫 About Me:
