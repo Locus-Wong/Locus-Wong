@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats:
 
 <div align ="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="100">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" width="143">
+ <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="300">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" width="343">
 </div>                                                                                                                 
 <div align ="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="300">
