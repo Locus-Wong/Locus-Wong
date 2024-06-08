@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false) |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)    |                                                                                                                        |
 
 
