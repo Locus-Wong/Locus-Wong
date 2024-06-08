@@ -29,7 +29,7 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div style="display: grid;">
+<div style="align: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 30%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 30%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 30%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
