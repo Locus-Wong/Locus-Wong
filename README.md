@@ -35,7 +35,6 @@
  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="zoom:67%;" /><img src='https://memer-new.vercel.app/' style="height: 400px; zoom: 50%;"/>
 
-
 ---
 
 
