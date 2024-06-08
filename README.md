@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
 
-<span align="center">Junior Software Developer  [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)</span>
+<div align="center">Junior Software Developer</div>  [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ### Junior Software Developer
