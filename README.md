@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats:
 
 <div align ="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="340">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" width="373">
+ <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="350">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" width="383">
 </div>                                                                                                                 
 <div align ="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="300">
@@ -49,7 +49,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 <div align="">
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -68,6 +67,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
