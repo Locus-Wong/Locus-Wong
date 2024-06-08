@@ -35,6 +35,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
 </div>
 
+<div class="grid-container">
+    <div class="grid-item"><img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"></div>
+    <div class="grid-item"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"></div>
+    <div class="grid-item"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"></div>
+    <div class="grid-item">4</div>
+    <div class="grid-item">5</div>
+    <div class="grid-item">6</div>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
