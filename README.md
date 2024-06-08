@@ -6,7 +6,7 @@
 </div>
 
 
-| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"> | <img alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1"> |
+| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900"> | <img alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1"> |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 
 
