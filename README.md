@@ -31,13 +31,8 @@
 ## 📊 GitHub Stats:
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false) 
 <div align ="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 35%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"> </div>                                                                                                                        
-<span align="left">✍️ Random Dev Quote</span>                         <span align="right"> 😂 Random Dev Meme</span>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 35%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"> </div>                                                                                                                  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="zoom:67%;" /><img src='https://memer-new.vercel.app/' style="height: 400px; zoom: 50%;"/>
-
-
-
 
 ---
 
