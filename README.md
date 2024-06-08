@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
 <h3 align="center">Junior Software Developer</h3>   
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"><img align="right" alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"><img align="right" alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
 
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
