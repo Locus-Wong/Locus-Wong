@@ -27,7 +27,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><!-- Python -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100"><!-- Ubuntu -->
 </div>
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Locus-Wong&show_icons=true&locale=en&layout=compact" alt="Locus-Wong" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&show_icons=true&locale=en" alt="Locus-Wong" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&" alt="Locus-Wong" /></p>
