@@ -28,6 +28,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
 ## 💫 About Me:
 👨🏻‍🎓 I'm a third-semester Computer Programming and Analysis student at Seneca Polytechnic.<br>📚 I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me: twwong9@myseneca.ca
 
