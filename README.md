@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
-<h3 align="center">Junior Software Developer</h3>   
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><h3 align="center">Junior Software Developer</h3>   
 
 <img align="right" alt="Coding" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
 
@@ -29,7 +29,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 
 ## 💫 About Me:
 👨🏻‍🎓 I'm a third-semester Computer Programming and Analysis student at Seneca Polytechnic.<br>📚 I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me: twwong9@myseneca.ca
