@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
-<h3 style="display: inline;">Your Heading</h3><a href="https://visitcount.itsvg.in" style="display: inline;">
+<h3 style="display: inline-block;">Your Heading</h3><a href="https://visitcount.itsvg.in" style="display: inline-block;">
         <img src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1" alt="Visit Count" style="vertical-align: middle;"></a>
     
     
