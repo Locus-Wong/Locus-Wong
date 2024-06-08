@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
 <h3 style="display: inline-block;">Your Heading</h3><a href="https://visitcount.itsvg.in" style="display: inline-block;">
         <img src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1" alt="Visit Count" style="vertical-align: middle;"></a>
-    ![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)
+
+    [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
     
 ## 💫 About Me:
 👨🏻‍🎓 I'm a third-semester Computer Programming and Analysis student at Seneca Polytechnic.<br>📚 I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me: twwong9@myseneca.ca
