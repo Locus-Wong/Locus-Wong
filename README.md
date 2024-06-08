@@ -32,11 +32,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&show_icons=true&locale=en" alt="Locus-Wong" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&" alt="Locus-Wong" /></p>
 
-<div>### ✍️ Random Dev Quote
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)-->
-<img src='[https://memer-new.vercel.app/](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)' style="height: 400px;"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/></div>
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 
 ---
