@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
-<div> [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
-<h3 align="center">Junior Software developer</h3>
-</div>
+ [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
+<h3 display: inline; align="center">Junior Software developer</h3>
+
 
 
 # 💫 About Me:
