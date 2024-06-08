@@ -6,10 +6,11 @@
 ### Junior Software Developer
 [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex-grow: 1;">Junior Software Developer</div>
-    <div style="margin-left: auto;"><a href="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1"><img src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1"></a></div>
+<div style="text-align: center;">
+    Junior Software Developer
+    <span style="float: right;">[![Visit Count](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)</span>
 </div>
+
 
     
 ## 💫 About Me:
