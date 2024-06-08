@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
 
-[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in) <h3>wqeqw</h3>
+[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in) <span>wqeqw</span>
 
 
 
