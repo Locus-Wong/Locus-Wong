@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Locus Wong</h1>
-<h3 align="center">Junior Software Developer</h3>   
+<h1 align="center">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;, I'm Locus Wong</h1>
+<h3 align="center">Junior Software Developer<img src="https://user-images.githubusercontent.com/74038190/214643112-f6f588c4-473d-47b1-a2a2-ff152f691e62.png" width="30" /></h3>   
 
-<div align="center" width:100%>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"><img alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
-</div>
+ <img align="right" alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900"> <img alt="View" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
 ## 💫 About Me:
-👨🏻‍🎓 I'm a third-semester Computer Programming and Analysis student at Seneca Polytechnic.<br>📚 I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me: twwong9@myseneca.ca
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="440">
+👨🏻‍🎓 I'm a Computer Programming and Analysis student at Seneca Polytechnic.<br>📚 I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy gym, board games, pop music, travel, and trying new foods.<br>📫 How to reach me: twwong9@myseneca.ca
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsz-wa-wong-8201b3210/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/locus_hk/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Kn69grT2h)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Locus_HK) 
@@ -35,14 +34,18 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100"><!-- Ubuntu -->
 </div>
 
-<br><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="zoom:100%;" />
-
 ## 📊 GitHub Stats:
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false) 
 <div align ="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="370"> </div>                                                                                                                 
 
-<br><br>
+<br>
+
+## ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="857">
+<br>
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
