@@ -12,7 +12,7 @@
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 
-<div style="display: grid; grid-template-columns: 1fr 2fr 1fr; grid-template-rows: auto auto; gap: 10px;">
+<div align ="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><!-- JS -->
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100"><!-- HTML -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100"><!-- CSS -->
@@ -29,7 +29,7 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div align="center">
+<div style="display: grid; grid-template-columns: 1fr 2fr 1fr; grid-template-rows: auto auto; gap: 10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 45%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"><br/>
