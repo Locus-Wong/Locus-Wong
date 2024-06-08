@@ -32,26 +32,15 @@
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false) 
 <div align ="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" style="width: 35%; border: 2px solid #000; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);"> </div>                                                                                                                           
-
-
-### ✍️ Random Dev Quote ### 😂 Random Dev Meme
-![]([https://memer-new.vercel.app/](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox))![](https://memer-new.vercel.app/) 
-
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+<img src='[https://memer-new.vercel.app/](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)' style="height: 400px;"/>
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
