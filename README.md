@@ -39,24 +39,16 @@
 
 ## 📊 GitHub Stats:
 
-
-
 <div align ="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" width="440">
+ <img src="https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="430">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false" alt="GitHub Stats" width="470">
 </div>                                                                                                                 
-
 <div align ="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="330">
 </div>
-
-
-
-<br>
 
 ## ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
 
 <div align="">
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
