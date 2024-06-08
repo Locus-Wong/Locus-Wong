@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
-<h3 align="center">A passionate Computer Programming student from Seneca Polytechnic</h3>
+<h3 align="center">Junior Software developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=6&color=1)](https://visitcount.itsvg.in)
 
