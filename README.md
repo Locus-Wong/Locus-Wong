@@ -33,8 +33,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&" alt="Locus-Wong" /></p>
 
 <div>### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)-->
+<img src='[https://memer-new.vercel.app/](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)' style="height: 400px;"/>
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/></div>
 
