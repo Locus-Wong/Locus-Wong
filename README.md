@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
 ## 💫 About Me:
 👨🏻‍🎓 I'm a third-semester Computer Programming and Analysis student at Seneca Polytechnic.<br>📚 I'm learning C++, C#, JavaScript, CSS, HTML, and SQL.<br>🤝 I’m looking for help with job searching.<br>🌱 My goal is to become a software developer.<br>⚡ Fun fact: I enjoy going to the gym, playing board games, listening to pop music, traveling, and exploring new foods.<br>📫 How to reach me: twwong9@myseneca.ca
 
@@ -34,8 +33,6 @@
 ## 📊 GitHub Stats:
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false) 
 <div align ="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="370"> </div>                                                                                                                  
----
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width="370"> </div>                                                                                                                 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
