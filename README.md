@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Locus Wong</h1>
-### Junior Software Developer  
+<h3 align="center">Junior Software Developer</h3>   
 
 <img align="right" alt="Coding" width="150" src="https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1">
 
