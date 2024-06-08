@@ -33,11 +33,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100"><!-- Ubuntu -->
 </div>
 
-
-
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="zoom:100%;" />
+<br><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="zoom:100%;" />
 
 ## 📊 GitHub Stats:
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locus-Wong&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Locus-Wong&theme=dark&hide_border=false) 
