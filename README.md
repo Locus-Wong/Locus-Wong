@@ -9,7 +9,6 @@
 <div style="text-align: center;">
     Junior Software Developer
     <span style="float: right;"> 
-        
 [![](https://visitcount.itsvg.in/api?id=Locus-Wong&icon=0&color=1)](https://visitcount.itsvg.in) </span>
 </div>
 
