@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with job searching.<br>
 - 🌱 My goal is to become a Mobile Application Developer.<br>
 - ⚡ Fun fact: I enjoy gym, board games, pop music, travel, and trying new foods.<br>
-- 📫 How to reach me: twwong9@myseneca.ca
+- 📫 How to reach me: wongtzswa@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsz-wa-wong-8201b3210/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/locus_hk/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Kn69grT2h)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Locus_HK) 
